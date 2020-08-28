@@ -1,10 +1,50 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "RainbowLiquids",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_liquids"
+    },
+    {
+      "name": "WhiteSpectra",
+      "type": "fluid",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_spectra"
+    },
+    {
+      "name": "WhiteSpectraMobplayerCollidesBlock",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_spectra_mobplayer_collides_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "itemGroup.tabrainbow_liquids": "Rainbow Liquids",
+      "item.rainbow_liquids_mod_reborn.white_spectra_bucket": "Bucket of White Spectra",
+      "fluid.white_spectra": "WhiteSpectra"
+    }
   },
   "workspaceSettings": {
     "modid": "rainbow_liquids_mod_reborn",
@@ -19,6 +59,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.rainbowliquidsmodreborn",
     "lockBaseModFiles": false
   },

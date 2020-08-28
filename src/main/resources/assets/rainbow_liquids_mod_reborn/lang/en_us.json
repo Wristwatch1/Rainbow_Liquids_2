@@ -1,1 +1,5 @@
-{}
+{
+  "itemGroup.tabrainbow_liquids": "Rainbow Liquids",
+  "item.rainbow_liquids_mod_reborn.white_spectra_bucket": "Bucket of White Spectra",
+  "fluid.white_spectra": "WhiteSpectra"
+}

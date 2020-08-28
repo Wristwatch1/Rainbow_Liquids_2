@@ -1,0 +1,22 @@
+{
+  "_fv": 10,
+  "_type": "fluid",
+  "definition": {
+    "name": "WhiteSpectra",
+    "textureStill": "whitespectrastill",
+    "textureFlowing": "whitespectraflowing",
+    "luminosity": 15,
+    "density": 1000,
+    "viscosity": 1000,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "CUSTOM:RainbowLiquids"
+    },
+    "spawnWorldTypes": [],
+    "onEntityCollides": {
+      "name": "WhiteSpectraMobplayerCollidesBlock"
+    }
+  }
+}
