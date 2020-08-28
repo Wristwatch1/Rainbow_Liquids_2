@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="rainbow_liquids_mod_reborn"
+version="1.0.0"
+displayName="Rainbow Liquids Mod Reborn"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="Daxadventures, MCreator"
+
+[[dependencies.rainbow_liquids_mod_reborn]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
