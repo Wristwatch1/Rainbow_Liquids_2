@@ -2,6 +2,8 @@
   "replace": false,
   "values": [
     "rainbow_liquids_mod_reborn:white_spectra",
-    "rainbow_liquids_mod_reborn:white_spectra_flowing"
+    "rainbow_liquids_mod_reborn:white_spectra_flowing",
+    "rainbow_liquids_mod_reborn:orange_spectra",
+    "rainbow_liquids_mod_reborn:orange_spectra_flowing"
   ]
 }

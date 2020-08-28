@@ -35,6 +35,15 @@
           }
         ]
       }
+    },
+    {
+      "name": "OrangeSpectra",
+      "type": "fluid",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_spectra"
     }
   ],
   "variable_elements": [],
@@ -42,8 +51,10 @@
   "language_map": {
     "en_us": {
       "itemGroup.tabrainbow_liquids": "Rainbow Liquids",
+      "fluid.orange_spectra": "OrangeSpectra",
       "item.rainbow_liquids_mod_reborn.white_spectra_bucket": "Bucket of White Spectra",
-      "fluid.white_spectra": "WhiteSpectra"
+      "fluid.white_spectra": "WhiteSpectra",
+      "item.rainbow_liquids_mod_reborn.orange_spectra_bucket": "Bucket of Orange Spectra"
     }
   },
   "workspaceSettings": {
